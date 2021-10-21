@@ -1,0 +1,22 @@
+{
+  "name": "XKCocoapods",
+  "version": "0.1.0",
+  "summary": "iOS 公有库.",
+  "description": "iOS 公有库描述.",
+  "homepage": "https://github.com/feimatayan/XKCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "feimatayan": "2440848519@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/feimatayan/XKCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XKCocoapods/Classes/**/*"
+}
